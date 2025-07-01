@@ -43,7 +43,7 @@ Made with the help of the opencv blogs and a little help from discussions in sta
 
 <p align="center">
   Made with ❤️ by <strong>Priyanshu Raj</strong> <br/>
-  © 2024–Present
+  © 2025–Present
 </p>
 
 
