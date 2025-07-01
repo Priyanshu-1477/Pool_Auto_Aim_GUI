@@ -39,5 +39,11 @@ Made with the help of the opencv blogs and a little help from discussions in sta
 
 
 
-<p align="center">Made with ❤️  by Priyanshu Raj</p>
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Priyanshu Raj</strong> <br/>
+  © 2024–Present
+</p>
+
 
