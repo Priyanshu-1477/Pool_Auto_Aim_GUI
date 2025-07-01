@@ -31,7 +31,10 @@ python3 main.py
 Open to feature suggestions and improvements! Feel free to fork, ask issues and PR.
 
 ## 📸 Screenshot
-(Add a screenshot of your GUI running)
 
-Made with ❤️  by [YourName]
+
+## Credits
+Made with the help of the opencv blogs and a little help from discussions in stackoverflow and for the GUI forming part took significant help from ChatGPT for the data and values.
+
+Made with ❤️  by [Priyanshu Raj]
 
