@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>8 Ball Pool Auto Aim - Demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+  <body class="bg-gradient-to-br from-indigo-900 to-black text-white min-h-screen flex items-center justify-center px-4">
+
+    <div class="max-w-3xl w-full text-center space-y-10 animate-slide-in">
+      <h1 class="text-5xl font-bold text-purple-400 drop-shadow">🎯 8 Ball Pool Auto Aim</h1>
+      <p class="text-lg text-gray-300">
+        AI-based aiming assistant for 8 Ball Pool. Automatically calculates angles and helps you shoot like a pro.
+      </p>
+
+      <div class="overflow-hidden rounded-xl border-2 border-gray-700 shadow-xl">
+        <img src="8ball_demo.gif" alt="Demo of 8 Ball Pool Auto Aim" class="w-full" />
+      </div>
+
+      <a href="https://github.com/Priyanshu-1477/8-ball-pool-auto-aim-gui" 
+         class="inline-block mt-4 px-6 py-3 bg-purple-500 hover:bg-purple-600 text-black font-semibold rounded-xl shadow transition">
+        View Source on GitHub →
+      </a>
+
+      <footer class="pt-10 text-sm text-gray-500">
+        Precision. Logic. Victory. By Priyanshu Raj.
+      </footer>
+    </div>
+
+    <style>
+      @keyframes slide-in {
+        0% { opacity: 0; transform: translateY(40px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      .animate-slide-in {
+        animation: slide-in 1s ease-out forwards;
+      }
+    </style>
+
+  </body>
+</html>
